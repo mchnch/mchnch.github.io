@@ -2,7 +2,7 @@
 layout: post
 title:  "Bine ati venit!"
 ref: welcome
-date:   2019-03-18 23:48:44 +0100
+date:   2019-03-18 23:35:44 +0100
 categories: update
 lang: ro
 ---
