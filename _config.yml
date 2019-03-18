@@ -15,7 +15,7 @@ description:
   ro: Personal blog!
 index:
   en:
-  ro: accueil.html
+  ro: despre.html
 feed:
   en: /feed.xml
   ro: /flux.xml
