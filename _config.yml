@@ -7,8 +7,8 @@
 
 # Site settings
 title:
-  en: Mchn.ch
-  ro: Mchn.ch
+  en: Alin Mechenici
+  ro: Alin Mechenici
 email: alin@mchn.ch
 description:
   en: Personal blog!
@@ -20,7 +20,7 @@ feed:
   en: /feed.xml
   ro: /flux.xml
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://mchn.ch" # the base hostname & protocol for your site
+url: "http://mchn.ch" # the base hostname & protocol for your site
 twitter_username: alinmechenici
 github_username:  alinmechenici
 
