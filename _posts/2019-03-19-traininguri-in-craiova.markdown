@@ -11,7 +11,7 @@ Daca esti antreprenor sau manager, atunci iti recomand sa iti arunci un ochi pes
 Daca esti si din Craiova, si mai bine. 
 De subliniat faptul ca atat programul de formare cat si strategia (vezi mai jos detalii) sunt gratuite si nu implica niciun cost pentru companii iar numarul de participanti este limitat.
 
-1. Cursurile sunt:
+**Cursurile sunt**:
 
 · Managementul Inovarii– 48 h (6-8 iunie si 13 – 15 iunie)
 
@@ -21,13 +21,17 @@ De subliniat faptul ca atat programul de formare cat si strategia (vezi mai jos 
 
 · Curs acredidat competente antreprenoriale, antreprenori, 28-30 martie, 4-6 apr.
 
-3. Caracteristicile cursantilor:
+**Caracteristicile cursantilor:**
+
 ·  Manageri din industriile IT&C, auto sau alimentara pentru primele doua cursuri si din departamentele de HR pt inspector
+
 ·  Compania sa aiba activ unul din codurile CAEN din lista anexata la email.
+
 ·  O companie poate forma pana la 20 de manageri, daca doreste si atunci cursurile vor fi tinute la sediul companiei – pt managementul inovarii si mini MBA
+
 ·  O companie poate forma max 2 persoane pt cursurile acredidate
 
-4. Documente necesare inscrierii la cursuri:
+**Documente necesare inscrierii la cursuri:**
 
 ·  Copia cărții de identitate conformată cu originalul
 
@@ -42,6 +46,6 @@ De subliniat faptul ca atat programul de formare cat si strategia (vezi mai jos 
 ·  Acordul de utilizare a datelor cu caracter personal
 (Trimite-mi un email scurt la adresa alin @ mechenici .com si ti le voi trimite atasamentele)
 
-5. Strategie de inovare -  in cadrul proiectului avem si o etapa de elaborarea strategiei de inovare pentru 25 de companii (din cele 5 regiuni), ceea ce inseamna 5 companii din Craoiva, din cele care isi trimit managerii la cursuri.
+**Strategie de inovare** -  in cadrul proiectului avem si o etapa de elaborarea strategiei de inovare pentru 25 de companii (din cele 5 regiuni), ceea ce inseamna 5 companii din Craoiva, din cele care isi trimit managerii la cursuri.
 
 Mult succes!
