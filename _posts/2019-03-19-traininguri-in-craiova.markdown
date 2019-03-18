@@ -44,8 +44,9 @@ De subliniat faptul ca atat programul de formare cat si strategia (vezi mai jos 
 ·  Certificat constatator emis de ONRC – informații extinse (se poate obține online de pe website-ul www.onrc.ro) din care rezultă domeniul de activitate al companiei și încadrarea în categoria IMM
 
 ·  Acordul de utilizare a datelor cu caracter personal
+
 (Trimite-mi un email scurt la adresa alin @ mechenici .com si ti le voi trimite atasamentele)
 
-**Strategie de inovare** -  in cadrul proiectului avem si o etapa de elaborarea strategiei de inovare pentru 25 de companii (din cele 5 regiuni), ceea ce inseamna 5 companii din Craoiva, din cele care isi trimit managerii la cursuri.
+**Strategie de inovare** -  in cadrul proiectului avem si o etapa de elaborarea strategiei de inovare pentru 25 de companii (din cele 5 regiuni), ceea ce inseamna 5 companii din Craiova, din cele care isi trimit managerii la cursuri.
 
 Mult succes!
