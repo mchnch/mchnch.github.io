@@ -8,17 +8,17 @@
 # Site settings
 title:
   en: Mchn.ch
-  fr: Mchn.ch
+  ro: Mchn.ch
 email: alin@mchn.ch
 description:
   en: Personal blog!
- fr: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
+  ro: Personal blog!
 index:
   en:
-  fr: accueil.html
+  ro: accueil.html
 feed:
   en: /feed.xml
-  fr: /flux.xml
+  ro: /flux.xml
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://mchn.ch" # the base hostname & protocol for your site
 twitter_username: alinmechenici
