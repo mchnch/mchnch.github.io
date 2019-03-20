@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Traininguri in Craiova!"
+title:  "Traininguri in Craiova"
 ref: Trainings
 date:   2019-03-19 00:00:44 +0100
 categories: trainings
@@ -15,7 +15,7 @@ De subliniat faptul ca atat programul de formare cat si strategia (vezi mai jos 
 
 · Managementul Inovarii– 48 h (6-8 iunie si 13 – 15 iunie)
 
-· Mini MBA – 96 h (4 weekenduri) – 11 – 13 apr, 18 – 20 apr, 9-11 mai, 16 -18 mai.
+· Mini MBA – 96 h (4 weekenduri) – 12 – 14 apr, 19 – 21 apr, 10-12 mai, 17 -19 mai.
 
 · Curs acreditat inspector resurse umane, persoane din departamentul HR, 28-30 martie, 4-6 apr
 
